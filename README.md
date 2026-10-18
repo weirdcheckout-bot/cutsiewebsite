@@ -1,10 +1,12 @@
-# Math Bestie 💗
+# Study Bestie 💗 — Maths & French
 
-A responsive, pink-themed maths practice site covering:
+A responsive pink-themed study site with a maths practice area and a French conjugation study page. Maths topics:
 - Multiplying and dividing integers
 - Constructing algebraic expressions
 - Factoring expressions
 - Place value and rounding
+
+French revision includes regular -ER present-tense endings, être, avoir, aller, faire, and past participles such as vendu, pu, dit, mis, fait, eu, and été, plus an interactive quiz. Content follows the learner’s handwritten notes with standard spelling and explanations.
 
 ## Features
 Worked examples, randomly generated practice questions across easy/medium/hard levels, topic filters, answer checking with explanations, session progress statistics, and a 20-question mixed mock exam.
